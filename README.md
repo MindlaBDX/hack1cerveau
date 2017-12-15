@@ -2,7 +2,9 @@
 Le hackathon a eu lieu du 8 eu 10 décembre 2017 au fablab 127° à Cap Sciences.
 Il a été organisé par les associations MindLaBDX et Ascoergo.
 
-Plus d'informations : https://mindlabdx.github.io/hack1cerveau/
+Plus d'informations : [le site web de l'événement](https://mindlabdx.github.io/hack1cerveau/)
+
+<center><img src="https://mindlabdx.github.io/hack1cerveau/images/HACK1CERVEAU_LOGO_18mindlab-08.jpg" width="500"></center>
 
 ## Les projets et les participants
 1. [IA Tetris/Snake pour Arbalet 127](#projet1)
