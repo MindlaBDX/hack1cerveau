@@ -99,3 +99,6 @@ Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possi
 - [Inria](https://www.inria.fr/centre/bordeaux)
 <br>
 <center><img src="https://mindlabdx.github.io/hack1cerveau/images/inr_logo_fr_rouge.png" align="middle" width="300"></center>
+
+#### Et le superbe logo
+GAYA (Alex G.)
