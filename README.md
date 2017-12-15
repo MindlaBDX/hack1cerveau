@@ -4,7 +4,7 @@ Il a été organisé par les associations MindLaBDX et Ascoergo.
 
 Plus d'informations : [le site web de l'événement](https://mindlabdx.github.io/hack1cerveau/)
 
-<center><img src="https://mindlabdx.github.io/hack1cerveau/images/HACK1CERVEAU_LOGO_18mindlab-08.jpg" width="500"></center>
+<center><img src="https://mindlabdx.github.io/images/HACK1CERVEAU_LOGO_18mindlab-08.jpg" width="500"></center>
 
 ## Les projets et les participants
 1. [IA Tetris/Snake pour Arbalet 127](#projet1)
@@ -81,24 +81,24 @@ Plus d'informations : [le site web de l'événement](https://mindlabdx.github.io
 #### Soutiens financiers
 
 - La région [Nouvelle-Aquitaine](https://www.nouvelle-aquitaine.fr)
-<center><img src="https://mindlabdx.github.io/hack1cerveau/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500"></center>
+<center><img src="https://mindlabdx.github.io/images/LOGO_Nouvelle_Aquitaine.jpg" align="middle" width="500"></center>
 
 - La région [Bordeaux Neurocampus](http://www.bordeaux-neurocampus.fr/fr/index.html)
-<center><img src="https://mindlabdx.github.io/hack1cerveau/images/LOGO_neurocampus_from_Word-doc.png" align="middle" width="400"></center>
+<center><img src="https://mindlabdx.github.io/images/LOGO_neurocampus_from_Word-doc.png" align="middle" width="400"></center>
 
 - La région [FSDIE / Université de Bordeaux](https://www.u-bordeaux.fr/Campus/Vie-associative/Projets-etudiants-FSDIE)
-<center><img src="https://mindlabdx.github.io/hack1cerveau/images/LOGO_FSDIE_brun.png" align="middle" width="250"></center>
+<center><img src="https://mindlabdx.github.io/images/LOGO_FSDIE_brun.png" align="middle" width="250"></center>
 
 #### Partenaires de l'événement
 Ceux qui nous soutiennent et sans qui cet événement n'auraient pas été possible :
 
 - [Cap Sciences](http://www.cap-sciences.net) et le [127°](http://cap-sciences.net/au-programme/atelier-127%C2%B0-diy/le-127%C2%B0-cest-quoi.html)
-<center><img src="https://mindlabdx.github.io/hack1cerveau/images/LOGO_cap_sciences_en_largeur.png" align="middle" width="400"><img src="/images/LOGO_127.png" align="middle" width="350"></center>
+<center><img src="https://mindlabdx.github.io/images/LOGO_cap_sciences_en_largeur.png" align="middle" width="400"><img src="/images/LOGO_127.png" align="middle" width="350"></center>
 
 #### Soutien logistique, com' & goodies
 - [Inria](https://www.inria.fr/centre/bordeaux)
 <br>
-<center><img src="https://mindlabdx.github.io/hack1cerveau/images/inr_logo_fr_rouge.png" align="middle" width="300"></center>
+<center><img src="https://mindlabdx.github.io/images/inr_logo_fr_rouge.png" align="middle" width="300"></center>
 
-#### Et le superbe logo
+#### Et le superbe logo !
 GAYA (Alex G.)
