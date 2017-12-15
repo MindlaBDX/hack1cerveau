@@ -45,7 +45,7 @@ Plus d'informations : https://mindlabdx.github.io/hack1cerveau/
 
 #### <a name="projet7"></a> Projet 7 - Arts & Sciences 4 your Brain (projet bonus)
 - **Porteurs de projet** : [Xavier Hinaut](https://github.com/neuronalX)
-- **Participants** : Sarah, Coralie & Sofiane
+- **Participants** : Yen, Sarah, Coralie & Sofiane
 - **Repo GitHub** : [light4brain](https://github.com/MindlaBDX/light4brain)
 
 ## Organisateurs, Partenaires & Soutiens
